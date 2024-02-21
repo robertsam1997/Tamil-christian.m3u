@@ -1,1 +1,127 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/6b3nJcD.png",Adhisayam TV
+https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/3RTWfwf.jpg",Alpha TV
+https://account21.livebox.co.in/Alphatvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/a37571_8cc49532e803410a9814d2cb18b24fc8~mv2.png",Amen Tamil TV
+https://gospeltamiltv.livebox.co.in/AmenTamilTvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/CjhHzhz.png",Angel TV
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/jH4nmq3.jpg",Ark TV
+https://sscloud7.com/arktvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/a37571_856148dc28ce4d21bb4e057980dadd21~mv2.jpeg",Arputhar Yesu
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/xLEGA5C.png",Bible TV
+https://account33.livebox.co.in/bibletvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Blessing Tv HD
+https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Blessing Tv SD
+https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/z8azsGr.png",Channel 316
+https://channel316.livebox.co.in/c316hls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/qiLMNwo.jpg",Comforter TV
+https://2nbyj3mel53k-hls-live.5centscdn.com/jrtamil/b9e125318be01cd879bc11a67789e994.sdp/jrtamil/comfortertv1/chunks.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_569aa0fe29a24567a0d430f523334545~mv2.png",Cross Tv 
+https://server2.iptelevision.in/cross.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://crstv.in/img/logo.png",CRS Tv 
+http://183.87.51.10/hls/crstv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://www.logolynx.com/images/logolynx/24/24fe8bf946a7df9e6c0b10a5fb3bea2b.jpeg",Crown Tv
+https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/CrownTvCSI/live
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/E5KH8px.jpg",Elshaddai TV
+https://media.akamaicdn.us:1936/elshaddaitv/elshaddaitv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/zWxcgrR.png",Faith TV
+https://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/UnuDHW9.jpg",Family Channel
+https://2-fss-2.streamhoster.com/pl_118/amlst:203324-1410936/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_3a78161586a440a0ad686b2052376c0a~mv2.png",FCM TV
+https://f-tx-edge-87.christianworldmedia.com/FCMTV01/mp4:FCMTV01/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_cbbc1f56b9e64fab98ee3b66f32ddb8c~mv2.png",Glory Tv India
+https://account3.livebox.co.in/glorymediahls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/h9hsOt0.jpg",GoRevival TV
+https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_873c66d4140849e9bcf7c4454edb1017~mv2.jpeg",Gospel TV India
+https://gospeltamiltv.livebox.co.in/gospeltvhls/gospeltv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/ZHRqVc3.png",Grace TV_Madurai
+https://server2.thewebworld.in:3190/hybrid/play.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/h8gsBkL.png",Grace TV
+https://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/ozvCUrc.png",Heaven TV
+https://heaventv.livebox.co.in/heaventvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/Csfg9QY.png",HolyGod TV
+https://128989.gvideo.io/streams/128989_522806/480n/index.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="http://hope24x7.live/assets/images/hope-tv-logo.png",HopeTV 24*7
+http://streaming.livebox.co.in/Hopetv24x7hls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_640aaa48a16449d9a873f6955d32fd76~mv2.jpg",Hosanna Tv
+https://msleurope9.akamaized.net/hosanna/hosanna/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/sjZO7Iv.png",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_aa38a6fb08ea4c9b89a9cdc93e256e38~mv2.png",Iniyan TV
+https://server1.thewebworld.in:3114/multi_live/play_480.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/a37571_1c089c955bef4ee6b26591febf2a19db~mv2.jpeg",J King Tv
+https://account7.livebox.co.in/jkingTVhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/NXrRGwF.jpg",JTK
+https://ktismaservers.in:3346/live/jtktvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_672053641c1b4de5b7b7fd0a5693c425~mv2.jpeg",Jebam TV
+https://server.iptelevision.in/hls/jebamtv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_7ee48672d65445d5b23adcec40674817~mv2.png",Jebee TV
+https://server2.thewebworld.in:3909/stream/play.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/GZ84CT9.jpg",Jeevan TV
+http://198.144.149.82:8080/NOTV/JEEVANTV/index.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_b6911d20f2fb4750b087dda982c398ca~mv2.png",Jeeva Oli TV
+https://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.ytimg.com/vi/uNlpepoKX48/maxresdefault.jpg",Jesus Redeems Ministries
+https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/JesusRedeemsMinistries/live
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/5yi1uuA.png",Jeyam TV
+https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_a721b528adad4d33ac69d665c99ea560~mv2.png",JKM TV
+https://live1.sscloud7.com/jkmtv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/OoTSirD.png",Joshua TV
+http://joshuatv.phoenixcreations.online:1935/joshuatv/joshuatv/chunklist_w717100329.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/CX4QpDl.png",Joy TV
+https://joytv.livebox.co.in/joytvhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/k9PEoM2.png",LifeTV
+https://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/3UDjX1H.png",Lord TV
+https://f-tx-edge-86.christianworldmedia.com/lordtvministries/mp4:lordtvministries/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/zzKu53u.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/y7EgJ9j.png",Mahimai TV
+https://sscloud7.com/hls/mahimaitv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/sezFpQG.jpg",Meetpar TV
+https://server2.thewebworld.in:3221/stream/play.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/HVjc795.png",Nambikkai TV
+https://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_6bace0dd9dc942a69a8221647b184ce3~mv2.png",New Manna Tv
+https://ktismaservers.in:3587/multi_live/play_480.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_5953020bcc5b41ddaedaf75552016fa1~mv2.png",New Way Tv
+https://ktismaservers.in:3675/live/newwaytvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="http://www.nijamtv.in/img/logo.png",Nijam Tv
+http://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/Z1PvVYR.jpg",Nithyam TV
+https://mobile.iptelevision.in/nithyamapp.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_4d582011ef99410d9e3ae7a36f465682~mv2.jpg",NLM Tv
+https://rrsatrtmp.tulix.tv/nlmtv/nlmtvmulti.smil/chunklist_w1561913243_b1100000.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_23387cfd7acd4722b5c97a578a7b7a30~mv2.png",Rhema TV
+https://ktismaservers.in:3647/live/rhematvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/pyJTw5G.png",Ruah TV
+https://iptelevision.in/hls/ruahtv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/HdIDbk7.png",Salvation TV
+https://server.iptelevision.in/salvationtv.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.playboard.app/p/6100a3c3a973f9de993a94fadbcbce82/default.jpg",Sathiyam Gospel
+https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/SathiyamGospel/live
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_5ac1b304477c4f0587a377a65ff940f5~mv2.png",Tamil Christian TV
+https://ktismaservers.in:3220/hybrid/play.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://i.imgur.com/IV462X4.jpg",Theophony TV
+https://5d00db0e0fcd5.streamlock.net/7304/7304/chunklist_w2141510724.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_a6c7d64a48364cf0a2f19bd2ae0701df~mv2.jpg",TCBN TV
+https://ktismaservers.in:3382/live/tcbntvlive.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/TN_diocese_logo.png",TND Communication
+https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/channel/UC1IThY7kByhOm4souP78Y4A/live
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_c92e56bb1d804b74964af1947af0320d~mv2.png",Uthamiyae Tv
+https://odb.alonhosting.com:3957/stream/play.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_d32a3b66e801449193e25c31a0e9cb80~mv2.png",Vallamayin Alaikal Tv
+https://f-tx-edge-86.christianworldmedia.com/vallamai/mp4:vallamai/chunklist_w800186336.m3u8
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://mma.prnewswire.com/media/1572241/Vision_Media_Logo.jpg",Vision Media TND
+https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/VisionMediaLive/live
+#EXTINF:-1 group-title="Tamil Christian" tvg-logo="https://static.wixstatic.com/media/3d2e01_eb21575350bd4511b0533d64c80211c9~mv2.png",Yesuvin Karam
+https://5d00db0e0fcd5.streamlock.net/7084/7084/chunklist_w1328274860.m3u8
